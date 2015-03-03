@@ -1,0 +1,1 @@
+<div class="error no-results text-danger"><p><?php echo $text;?></p></div>

@@ -1,0 +1,1 @@
+<p style="margin-bottom:0; text-align:center;"><?php echo $text;?></p>

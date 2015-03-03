@@ -1,0 +1,7 @@
+.navbar-toggle {
+	display:block !important;
+}
+.navbar-nav a{
+	padding-top:10px !important;
+	padding-bottom:8px !important;
+}
