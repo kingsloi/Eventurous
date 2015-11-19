@@ -21,3 +21,6 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+app/tmp/logs/debug.log
+app/tmp/logs/emailFailed.log
+app/tmp/logs/error.log
